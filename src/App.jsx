@@ -43,7 +43,7 @@ function App() {
   return (
     <>
       <input
-        type="text"
+        type="tex"
         value={Firstname}
         placeholder="Firstname"
         onChange={(e) => setFirstname(e.target.value)}
