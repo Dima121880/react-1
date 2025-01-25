@@ -59,8 +59,57 @@ function App() {
       {Firstname} {lastname}
       <br />
       <button onClick={() => clear()}>clear</button>
+      <br />
+      <div>
+        <a href="https://vite.dev" target="_blank">
+          <img
+            src={
+              "https://tse2.mm.bing.net/th?id=OIP.JDa_1X-NqdM1K-bZxp99DQHaEo&pid=Api&P=0&h=220"
+            }
+            className="logo"
+            alt="Vite logo"
+          />
+        </a>
+        <a href="" target="">
+          <img
+            src={
+              "https://tse4.mm.bing.net/th?id=OIP.HxV79tFMPfBAIo0BBF-sOgHaEy&pid=Api&P=0&h=220"
+            }
+            className="logo react"
+            alt="React logo"
+          />
+        </a>
+        <a href="" target="_blank">
+          <img
+            src={
+              "https://tse3.mm.bing.net/th?id=OIP.rt-pujAJJlfsYntGE4rRAgHaE7&pid=Api&P=0&h=220"
+            }
+            className="logo"
+            alt="Vite logo"
+          />
+        </a>
+        <a href="" target="_blank">
+          <img
+            src={
+              "https://tse3.mm.bing.net/th?id=OIP.0iqvqUM-_MntTZp4CMBaigHaEK&pid=Api&P=0&h=220"
+            }
+            className="logo react"
+            alt="React logo"
+          />
+        </a>
+        <a href="" target="_blank">
+          <img
+            src={
+              "https://tse4.mm.bing.net/th?id=OIP.C2jx84-6xaPAth9E4dkzGAHaHa&pid=Api&P=0&h=220"
+            }
+            className="logo"
+            alt="Vite logo"
+          />
+        </a>
+      </div>
     </>
   );
+
   // return (
   //   <>
   //     <div>
