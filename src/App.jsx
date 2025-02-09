@@ -61,7 +61,7 @@ function App() {
       <button onClick={() => clear()}>clear</button>
       <br />
       <div>
-        <a href="https://vite.dev" target="_blank">
+        <a href="" target="_blank">
           <img
             src={
               "https://tse2.mm.bing.net/th?id=OIP.JDa_1X-NqdM1K-bZxp99DQHaEo&pid=Api&P=0&h=220"
@@ -109,31 +109,6 @@ function App() {
       </div>
     </>
   );
-
-  // return (
-  //   <>
-  //     <div>
-  //       <a href="https://vite.dev" target="_blank">
-  //         <img src={viteLogo} className="logo" alt="Vite logo" />
-  //       </a>
-  //       <a href="https://react.dev" target="_blank">
-  //         <img src={reactLogo} className="logo react" alt="React logo" />
-  //       </a>
-  //     </div>
-  //     <h1>Vite + React</h1>
-  //     <div className="card">
-  //       <button onClick={() => setCount((count) => count + 1)}>
-  //         count is {count}
-  //       </button>
-  //       <p>
-  //         Edit <code>src/App.jsx</code> and save to test HMR
-  //       </p>
-  //     </div>
-  //     <p className="read-the-docs">
-  //       Click on the Vite and React logos to learn more
-  //     </p>
-  //   </>
-  // );
 }
 
 export default App;
